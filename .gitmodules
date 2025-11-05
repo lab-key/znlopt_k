@@ -1,0 +1,4 @@
+[submodule "libs/upstream/nlopt"]
+	path = libs/upstream/nlopt
+	url = https://github.com/lab-key/nlopt/
+	branch = znlopt
